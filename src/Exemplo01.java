@@ -6,5 +6,8 @@ public class Exemplo01 {
         valor = 1;
         System.out.println("O valor é"+valor);
 
+        System.out.println("Aula de git");
+        String nome = "Joaquim";
+        System.out.println("Nome: " + nome);
     }
 }
